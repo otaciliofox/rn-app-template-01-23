@@ -1,0 +1,24 @@
+{
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": true,
+    "explorer.enableUndo": true,
+    "outline.collapseItems": "alwaysExpand",
+    "search.defaultViewMode": "tree",
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
+    "workbench.preferredDarkColorTheme": "Aura Soft Dark (Soft Text)",
+    "workbench.fontAliasing": "antialiased",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.labelFormat": "medium",
+    "debug.console.fontFamily": "Fira Code",
+    "scm.inputFontFamily": "Fira Code",
+    "explorer.compactFolders": false
+}
